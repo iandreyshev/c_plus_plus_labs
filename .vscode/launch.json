@@ -19,8 +19,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/ivan.andreyshev/Dev/code_for_angelina/lab3_var6",
-      "program": "/Users/ivan.andreyshev/Dev/code_for_angelina/lab3_var6/build/Debug/outDebug"
+      "cwd": "/Users/ivan.andreyshev/Dev/code_for_angelina/lw3",
+      "program": "/Users/ivan.andreyshev/Dev/code_for_angelina/lw3/build/Debug/outDebug"
     }
   ]
 }
