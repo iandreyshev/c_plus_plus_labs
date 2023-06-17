@@ -48,7 +48,6 @@ int main(int argc, char const *argv[])
     int itemsCount = sizeof(mammals) / sizeof(mammals[0]);
     for (size_t i = 0; i < itemsCount; i++)
     {
-        std::cout << std::to_string(i) << std::endl;
         std::cout << mammals[i]->info() << std::endl;
     }
 
